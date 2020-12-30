@@ -7,8 +7,9 @@
 
  **Hirola** is an opinionated web framework for that is focused on simplicity and predicatability.
 
-lib.rs
 #### Example
+
+lib.rs
 ```rust
 use hirola::prelude::*;
 use std::sync::Arc;
